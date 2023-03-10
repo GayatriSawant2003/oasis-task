@@ -1,2 +1,2 @@
-# oasisi-task1
+# oasis
 Landing Page
